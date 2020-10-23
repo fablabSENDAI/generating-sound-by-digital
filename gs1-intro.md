@@ -1,9 +1,10 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: はじめに
+nav_order: 1
 ---
 
+# はじめに
 レクチャーシリーズ『TOPPING』へようこそ。
 
 この『Generating Sound by Digital』では、楽器を演奏して音楽を作るのではなく、コーディングによって音を作り出し、それを繰り返すことで音楽を作る方法を紹介します。
